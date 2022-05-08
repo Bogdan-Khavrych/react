@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+.App{
+    width: 800px;
+
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inc{
+    border: none;
+    text-transform: uppercase;
+    background: greenyellow;
+    padding: 8px;
+    cursor: pointer;
+    margin-right: 16px;
+}
+
+.dec{
+    border: none;
+    text-transform: uppercase;
+    background: red;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.post{
+    display: flex;
+    padding: 16px;
+    border: 2px solid teal;
+    margin-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
