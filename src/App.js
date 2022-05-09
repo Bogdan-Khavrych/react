@@ -7,9 +7,9 @@ import './styles/App.css';
 
 function App() {
   const [posts, setPosts] = useState([
-    { id: 1, title: 'Javascript', body: 'Descirpitopn' },
-    { id: 1, title: 'Javascript', body: 'Descirpitopn' },
-    { id: 1, title: 'Javascript', body: 'Descirpitopn' },
+    { id: 1, title: 'Javascript', body: 'Description' },
+    { id: 1, title: 'Javascript', body: 'Description' },
+    { id: 1, title: 'Javascript', body: 'Description' },
   ])
 
   return (
