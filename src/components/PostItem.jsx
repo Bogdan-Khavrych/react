@@ -11,6 +11,7 @@ const PostItem = (props) => {
             Удалить
         </button>
     </div>
+    
     )
 }
 

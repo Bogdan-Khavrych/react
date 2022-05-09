@@ -27,7 +27,7 @@ class ClassCounter extends React.Component {
                 <button className="dec" onClick={this.decrement}>Decrement</button>
             </div>
         )
-    }
+    } 
 }
 
 export default ClassCounter;
